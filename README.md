@@ -13,8 +13,6 @@ Our project aims to perform a data analysis of the top investment banks using va
 1.	What is the market share of each of the top investment banks in terms of revenue and assets?
 2.	How has the revenue and profitability of the top investment banks evolved over the past five years?
 3.	What are the key drivers of revenue and profitability for investment banks?
-4.	What is the geographic distribution of revenue and assets for the top investment banks?
-5.	How do the top investment banks compare in terms of risk management and governance?
 
 #### Dataset to be Used:
 
