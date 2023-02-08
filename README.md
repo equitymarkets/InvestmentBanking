@@ -22,11 +22,11 @@ The team will use publicly available financial data for the top investment banks
 
 #### Rough Breakdown of Tasks:
 
-•	*Data Collection and Cleaning:* will be responsible for collecting and cleaning the data using Pandas. They will create a Jupyter Notebook to document the data exploration and cleanup process.
+•	*Data Collection and Cleaning:* will be responsible for collecting and cleaning the data using Pandas. We will create a Jupyter Notebook to document the data exploration and cleanup process.
 
-•	*Data Analysis:* will use Pandas to perform the data analysis and create visualizations using Matplotlib. They will create a Jupyter Notebook to illustrate the final data analysis.
+•	*Data Analysis:* will use Pandas to perform the data analysis and create visualizations using Matplotlib. We will create a Jupyter Notebook to illustrate the final data analysis.
 
-•	*Visualization:* will create 6 to 8 visualizations of the data, at least 2 visualizations per research question, using Matplotlib. They will save PNG images of the visualizations to share with the class and instructional team.
+•	*Visualization:* will create 6 to 8 visualizations of the data, at least 2 visualizations per research question, using Matplotlib. We will save PNG images of the visualizations to share with the class and instructional team.
 
 •	*Write-up:* will contribute to writing a summary of the major findings, including headings, for each research question, as well as a short description of the findings and relevant plots.
 
