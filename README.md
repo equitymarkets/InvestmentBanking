@@ -10,9 +10,9 @@ Our project aims to perform a data analysis of the top 10 investment banks using
 
 #### Questions to Answer:
 
-1.	What is the market share of each of the top investment banks in terms of revenue and assets? (pie charts?)
-2. How has the revenue and profitability of the top investment banks evolved over the past five years? (line charts?)
-3. 
+1. What is the market share of each of the top investment banks in terms of revenue and assets? 
+2. What is the size of these banks in terms of total revenue and total assets? 
+3. How big of a part of the overall revenue is the investment banking revenue for these banks?
 
 #### Dataset to be Used:
 
