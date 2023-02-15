@@ -32,3 +32,4 @@ The team will use publicly available financial data for the top 10 investment ba
 •	*Write-up:* will contribute to writing a summary of the major findings, including headings, for each research question, as well as a short description of the findings and relevant plots.
 
 •	*Bonus Task:* will use at least one API to gather additional data pertinent to the research questions.
+
