@@ -10,9 +10,12 @@ Our project aims to perform a data analysis of the top 10 investment banks using
 
 #### Questions to Answer:
 
-1. What kinds of trends are revealed by tracking investment banking fees from 2017-2021? 
-2. What is the size of these banks in terms of total revenue and total assets? 
-3. How big of a part of the overall revenue is the investment banking revenue for these banks?
+1.	Who are the largest investment banks by market share and how did they trend during a five-year window?
+2.	What is the size of the banks currently, based on total revenue and total assets and how do they compare to IB fees?
+3.	How big of a portion of these banks non-interest income are IB fees?
+4.	What do measures of central tendency and standard deviation tell us about the results?
+
+
 
 #### Dataset to be Used:
 
