@@ -35,7 +35,7 @@ The team will use publicly available financial data for the top 10 investment ba
 
 #### Findings:
 
-Where and how we found the data we used to answer these questions
+##### Where and how we found the data we used to answer these questions
 
 To answer our questions, we obtained our data mainly from the 10-K annual reports filed with the SEC in EDGAR. The exception to this rule is for foreign banks that are not required to file such reports with the SEC. In those cases, we pulled the annual reports from their investor information pages after confirming the CIK# on EDGAR. We found the data by pulling the CIK#s to identify the correct 10-K reports for the corresponding banks over the past five years.
 
