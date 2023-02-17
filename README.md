@@ -35,7 +35,7 @@ The team will use publicly available financial data for the top 10 investment ba
 
 #### Findings:
 
-##### Where and how we found the data we used to answer these questions
+Where and how we found the data we used to answer these questions
 
 To answer our questions, we obtained our data mainly from the 10-K annual reports filed with the SEC in EDGAR. The exception to this rule is for foreign banks that are not required to file such reports with the SEC. In those cases, we pulled the annual reports from their investor information pages after confirming the CIK# on EDGAR. We found the data by pulling the CIK#s to identify the correct 10-K reports for the corresponding banks over the past five years.
 
@@ -47,15 +47,15 @@ Each bank had numerous legal entities, subsidiaries, and lines of business, maki
 
 1.	What are the largest investment banks by market share and how did they trend during a five-year window?
 
-The banks ranked by market share over the 5yr aggregate are as follows JPM, GS, MS, BAML, Citi, Barclays, Jefferies, DB, RBC, CS. Looking at the 5-year trends we can see that JPM was the top IB with GS as second until the most recent year where GS overtook JPM. We also found that the smallest investment banks are pretty variable with CS at the bottom in 2017, RBC in 2018, Jefferies in 2019, and now, back-to-back smallest IB bank until 2020-2021 DB. On to Kevin for number 2. 
+The banks ranked by market share over the 5yr aggregate are as follows JPM, GS, MS, BAML, Citi, Barclays, Jefferies, DB, RBC, CS. Looking at the 5-year trends we can see that JPM was the top IB with GS as second until the most recent year where GS overtook JPM. We also found that the smallest investment banks are pretty variable with CS at the bottom in 2017, RBC in 2018, Jefferies in 2019, and now, back-to-back smallest IB bank until 2020-2021 DB. 
 
 2.	What is the size of the banks currently, based on total revenue and total assets and how do they compare to IB fees?
 
-The Income Statement and BS are the major financial statements used to analyze banks. We took the current Total Revenue (IS) and Total Assets (BS) to help us measure and compare the banks. As we learned from Derek’s explanation of question #1, GS overtook JPM in the most recent year for IB fees. JPM still holds #1 in Revenue and Assets with GS as #2. We can also See that even though DB has now been the smallest IB of the 10 for the last 2 years in regard to Revenue. They are 3rd from the bottom, in front of CS and Jefferies, as well as middle (5th) overall in assets in front of RBC, MS, CS, Jefferies. On to Cheryl for question 3.
+The Income Statement and BS are the major financial statements used to analyze banks. We took the current Total Revenue (IS) and Total Assets (BS) to help us measure and compare the banks. As we learned from Derek’s explanation of question #1, GS overtook JPM in the most recent year for IB fees. JPM still holds #1 in Revenue and Assets with GS as #2. We can also See that even though DB has now been the smallest IB of the 10 for the last 2 years in regard to Revenue. They are 3rd from the bottom, in front of CS and Jefferies, as well as middle (5th) overall in assets in front of RBC, MS, CS, Jefferies. 
 
 3.	How big of a percentage of these banks' non-interest income are IB fees?
 
-Investment banking fees make up a portion of the non-interest income which, when combined with Net interest income make up our total revenue. When we look at IB fees as a percentage of total non-interest income over the 5yr period we see that pretty much for all of the banks that IB fees sit in the range of about (10-30%), whereas for Jefferies IB fees makes up about 40% to 80% of their non-interest income from Year to year. This makes sense as the majority of Jefferies income comes primarily from investment banking compared to the more diversified IS for our other banks. On to Katie for number 4.
+Investment banking fees make up a portion of the non-interest income which, when combined with Net interest income make up our total revenue. When we look at IB fees as a percentage of total non-interest income over the 5yr period we see that pretty much for all of the banks that IB fees sit in the range of about (10-30%), whereas for Jefferies IB fees makes up about 40% to 80% of their non-interest income from Year to year. This makes sense as the majority of Jefferies income comes primarily from investment banking compared to the more diversified IS for our other banks.
 
 4.	What do measures of central tendency and other statistics tell us about the results?
 
@@ -65,3 +65,9 @@ Implications
 
 The banks at the top of investment banking, for the past half decade, normally do not move much in overall market share, with more variability surrounding the lower market shares; although smaller investment bank income does not necessarily mean a smaller income statement or balance sheet. 
 
+References: 
+
+•	*https://ir.jefferies.com/financials/annual-reports/default.aspx?KeyGenPage=1073752645*
+
+
+https://www.credit-suisse.com/about-us/en/reports-research/annual-reports.html
