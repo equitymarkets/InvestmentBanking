@@ -66,8 +66,23 @@ Implications
 The banks at the top of investment banking, for the past half decade, normally do not move much in overall market share, with more variability surrounding the lower market shares; although smaller investment bank income does not necessarily mean a smaller income statement or balance sheet. 
 
 References: 
+•	*https://www.sec.gov/edgar/searchedgar/companysearch*
+
+•	*https://home.barclays/investor-relations/reports-and-events/annual-reports/*
+
+•	*https://investor-relations.db.com/reports-and-events/annual-reports/*
 
 •	*https://ir.jefferies.com/financials/annual-reports/default.aspx?KeyGenPage=1073752645*
 
+•	*https://www.credit-suisse.com/about-us/en/reports-research/annual-reports.html)*
 
-https://www.credit-suisse.com/about-us/en/reports-research/annual-reports.html
+•	*https://www.rbc.com/investor-relations/financial-information.html*
+
+
+
+
+
+
+
+
+
