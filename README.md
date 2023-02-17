@@ -11,9 +11,9 @@ Our project aims to perform a data analysis of the top 10 investment banks using
 #### Questions to Answer:
 
 1.	What are the largest investment banks by market share and how did they trend during a five-year window?
-2.	What is the size of the banks currently, based on total revenue and total assets and how do they compare to IB fees?
-3.	How big of a percentage of these banks' non-interest income are IB fees?
-4.	What do measures of central tendency and standard deviation tell us about the results?
+2.	What is the size of the banks currently, based on total revenue and total assets, and how do they compare to IB fees?
+3.	How big of a portion of these banks' non-interest income are IB fees?
+4.	What do measures of central tendency and other statistics tell us about the results?
 
 
 
@@ -23,11 +23,11 @@ The team will use publicly available financial data for the top 10 investment ba
 
 #### Rough Breakdown of Tasks:
 
-•	*Data Collection and Cleaning:* will be responsible for collecting and cleaning the data using Pandas. We will create a Jupyter Notebook to document the data exploration and cleanup process.
+•	*Data Collection and Cleaning:* will be responsible for collecting and cleaning the data using Pandas and will create a Jupyter Notebook to document the data exploration and cleanup process.
 
-•	*Data Analysis:* will use Pandas to perform the data analysis and create visualizations using Matplotlib. We will create a Jupyter Notebook to illustrate the final data analysis.
+•	*Data Analysis:* will use Pandas to perform the data analysis and create visualizations using Matplotlib and will create a Jupyter Notebook to illustrate the final data analysis.
 
-•	*Visualization:* will create 6 to 8 visualizations of the data, at least 2 visualizations per research question, using Matplotlib. We will save PNG images of the visualizations to share with the class and instructional team.
+•	*Visualization:* will create 6 to 8 visualizations of the data, at least 2 visualizations per research question, using Matplotlib and will save PNG images of the visualizations to share with the class and instructional team.
 
 •	*Write-up:* will contribute to writing a summary of the major findings, including headings, for each research question, as well as a short description of the findings and relevant plots.
 
@@ -47,23 +47,23 @@ Each bank had numerous legal entities, subsidiaries, and lines of business, maki
 
 1.	What are the largest investment banks by market share and how did they trend during a five-year window?
 
-The banks ranked by market share over the 5yr aggregate are as follows JPM, GS, MS, BAML, Citi, Barclays, Jefferies, DB, RBC, CS. Looking at the 5-year trends we can see that JPM was the top IB with GS as second until the most recent year where GS overtook JPM. We also found that the smallest investment banks are pretty variable with CS at the bottom in 2017, RBC in 2018, Jefferies in 2019, and now, back-to-back smallest IB bank until 2020-2021 DB. 
+The banks ranked by market share over the 5yr aggregate are as follows JP Morgan (JPM), Goldman Sachs (GS), Morgan Stanley (MS), Bank of America (BAML), Citibank (Citi), Barclays, Jefferies, Deutche Bank (DB), Royal Bank of Canada (RBC), and Credit Suisse (CS). Looking at the 5-year trends we can see that JPM was the top IB with GS as second until the most recent year where GS overtook JPM. We also found that the smallest investment banks are pretty variable with CS at the bottom in 2017, RBC in 2018, Jefferies in 2019, and now, back-to-back smallest IB bank until 2020-2021, DB. 
 
 2.	What is the size of the banks currently, based on total revenue and total assets and how do they compare to IB fees?
 
-The Income Statement and BS are the major financial statements used to analyze banks. We took the current Total Revenue (IS) and Total Assets (BS) to help us measure and compare the banks. As we learned from Derek’s explanation of question #1, GS overtook JPM in the most recent year for IB fees. JPM still holds #1 in Revenue and Assets with GS as #2. We can also See that even though DB has now been the smallest IB of the 10 for the last 2 years in regard to Revenue. They are 3rd from the bottom, in front of CS and Jefferies, as well as middle (5th) overall in assets in front of RBC, MS, CS, Jefferies. 
+The Income Statement and BS are the major financial statements used to analyze banks. We took the current Total Revenue (IS) and Total Assets (BS) to help us measure and compare the banks. GS overtook JPM in the most recent year for IB fees. JPM still holds #1 in Revenue and Assets with GS as #2. We can also See that even though DB has now been the smallest IB of the 10 for the last 2 years in regard to Revenue, they are 3rd from the bottom, in front of CS and Jefferies, as well as middle (5th) overall in assets in front of RBC, MS, CS, Jefferies. 
 
 3.	How big of a percentage of these banks' non-interest income are IB fees?
 
-Investment banking fees make up a portion of the non-interest income which, when combined with Net interest income make up our total revenue. When we look at IB fees as a percentage of total non-interest income over the 5yr period we see that pretty much for all of the banks that IB fees sit in the range of about (10-30%), whereas for Jefferies IB fees makes up about 40% to 80% of their non-interest income from Year to year. This makes sense as the majority of Jefferies income comes primarily from investment banking compared to the more diversified IS for our other banks.
+Investment banking fees make up a portion of the non-interest income which, when combined with Net interest income make up our total revenue. When we look at IB fees as a percentage of total non-interest income over the 5-yr period we see that pretty much for all of the banks that IB fees sit in the range of about (10-30%), whereas for Jefferies IB fees makes up about 40% to 80% of their non-interest income from Year to year. This makes sense as the majority of Jefferies income comes primarily from investment banking compared to the more diversified IS for our other banks.
 
 4.	What do measures of central tendency and other statistics tell us about the results?
 
-Looking at our regression, we can see that total IB fees were increasing over the 5-year period, though not super significantly. This makes sense because when we look at overall bank size, income statement, and balance sheet for, these banks, they continue to increase over the 5-year period. In other words, we can visualize that IB fees are going up with the rest of the bank. 
+Looking at our regression, we can see that total IB fees were increasing over the 5-year period, though not significantly. This makes sense because when we look at overall bank size, income statement, and balance sheet for these banks, they continue to increase over the 5-year period. In other words, we can visualize that IB fees are rising with the rest of the bank's earnings and assets. 
 
 Implications
 
-The banks at the top of investment banking, for the past half decade, normally do not move much in overall market share, with more variability surrounding the lower market shares; although smaller investment bank income does not necessarily mean a smaller income statement or balance sheet. 
+The banks at the top of investment banking for the past half decade normally do not move much in overall market share, with more variability surrounding the lower market shares; although smaller investment bank income does not necessarily mean a smaller income statement or balance sheet. 
 
 References: 
 •	*https://www.sec.gov/edgar/searchedgar/companysearch*
