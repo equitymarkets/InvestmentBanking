@@ -1,5 +1,5 @@
 ## Group Project #1
-<img width="100%" alt="Investment Banking" src="Images/IB Fees.png">
+<img width="100%" alt="Investment Banking" src="finance.jpeg">
 
 ### Project Title: Analysis of Top 10 Investment Banks
 
