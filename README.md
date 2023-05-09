@@ -1,4 +1,4 @@
-## Group Project #1
+Investment Banking Fees for Top Ten Banks
 <img width="100%" alt="Investment Banking" src="Images/finance.jpeg">
 
 ### Project Title: Analysis of Top 10 Investment Banks
