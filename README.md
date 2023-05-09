@@ -1,6 +1,5 @@
 ## Group Project #1
-
-### Project Title: Analysis of Top 10 Investment Banks
+![image](https://github.com/equitymarkets/group_project/assets/49753517/4a0df8cf-c2c9-45b7-b1ab-43579d3c8aec)### Project Title: Analysis of Top 10 Investment Banks
 
 ### Team Members of Group 3: Derek P, Katie B, Cheryl Z, Kevin N, Ray H 
 
